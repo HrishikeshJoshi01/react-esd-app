@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/repositoryname/static/css/main.073c9b0a.css",
-    "main.js": "/repositoryname/static/js/main.c2fb0614.js",
-    "static/js/787.f5f2f93a.chunk.js": "/repositoryname/static/js/787.f5f2f93a.chunk.js",
-    "static/media/logo.svg": "/repositoryname/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/repositoryname/index.html",
-    "main.073c9b0a.css.map": "/repositoryname/static/css/main.073c9b0a.css.map",
-    "main.c2fb0614.js.map": "/repositoryname/static/js/main.c2fb0614.js.map",
-    "787.f5f2f93a.chunk.js.map": "/repositoryname/static/js/787.f5f2f93a.chunk.js.map"
+    "main.css": "/react-esd-app/static/css/main.073c9b0a.css",
+    "main.js": "/react-esd-app/static/js/main.f4b9b359.js",
+    "static/js/787.f5f2f93a.chunk.js": "/react-esd-app/static/js/787.f5f2f93a.chunk.js",
+    "static/media/logo.svg": "/react-esd-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-esd-app/index.html",
+    "main.073c9b0a.css.map": "/react-esd-app/static/css/main.073c9b0a.css.map",
+    "main.f4b9b359.js.map": "/react-esd-app/static/js/main.f4b9b359.js.map",
+    "787.f5f2f93a.chunk.js.map": "/react-esd-app/static/js/787.f5f2f93a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.c2fb0614.js"
+    "static/js/main.f4b9b359.js"
   ]
 }
